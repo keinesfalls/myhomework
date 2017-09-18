@@ -1,1 +1,1 @@
-This is a check file.
+This is a check file.Допишу сюда ещё строку.
